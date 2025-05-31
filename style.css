@@ -315,6 +315,7 @@ section .h2 .div{
   background: lightsalmon;
   border: 0px;
   border-radius: 5rem;
+  colour: white;
   display: flex;
   font-size: 0.6rem;
   font-weight: 900;
