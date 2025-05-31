@@ -128,13 +128,13 @@ div ul li{
   align-items: center;
   background: #528dff;
   border-radius: 15px;
-  color: black;
+  color: white;
   display: flex;
   justify-content: center;
   font-size: 1.5rem;
   height: 2rem;
   width: 100%;
-  margin-top: 2rem;
+  margin-top: 0.3rem;
   padding: 21px;
   text-decoration: none;
 }
