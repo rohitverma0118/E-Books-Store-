@@ -355,6 +355,8 @@ i{
     width: 30%;
     margin-left: 0.8rem;
     margin-right: 0.8rem;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
   }
   .Box{
     background: #cfe8ff;
