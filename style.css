@@ -356,6 +356,10 @@ i{
     margin-left: 0.8rem;
     margin-right: 0.8rem;
   }
+  .Box{
+    background: #cfe8ff;
+    background: linear-gradient(0deg, rgba(207, 232, 255, 1) 0%, rgba(255, 204, 225, 1) 100%);
+  }
   .Box-content ,.box-content{
     background-size: cover;
     margin-top: 1.5rem;
@@ -434,8 +438,11 @@ i{
     font-size: 1.6rem;
     height: 3rem;
   }
-  .social-media a i{
-    font-size: 3rem;
+  .social-media a{
+    border-radius: 2rem;
+    font-size: 1.2rem;
+    height: 3rem;
+    width: 8rem;
   }
   footer{
     display: flex;
