@@ -11,6 +11,11 @@ body{
   background: linear-gradient(90deg, rgba(237,237,253,1) 0%, rgba(255,239,252,1) 50%, rgba(255,246,239,1) 100%);
   margin : 0px;
 }
+.Box{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
 .box{
   height: 4rem;
   display: flex;
@@ -58,6 +63,11 @@ body{
   height: 2.4rem;
   width: 2.4rem;
 }
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .empty{
   display: flex;
   align-items: center;
@@ -77,7 +87,11 @@ body{
   border-radius: 1rem;
   height: 29rem;
   padding: 1.25rem;
-  margin: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 21rem;
 }
 .h1{
   align-items: center;
