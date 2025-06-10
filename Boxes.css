@@ -88,6 +88,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  font-size: 0.8rem
 }
 .header{
   background-color: rgb(17 143 158);
